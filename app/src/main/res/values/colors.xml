@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a12b39</color>
+    <color name="colorPrimaryDark">#741823</color>
+    <color name="colorAccent">#9e0e0e</color>
+    <color name="colorOne">#C19FA0</color>
+    <color name="colorOne1">#decacb</color>
+
+    <color name="colorFail">#ff0101</color>
+
+    <color name="blackAlpha">#770d0c0c</color>
+    <color name="blackMask">#e30d0c0c</color>
+    <color name="white">#ffffff</color>
+    <color name="transparente">#002e2a2a</color>
+    <color name="yellow">#e6d00c</color>
+    <color name="red">#ff5f5c</color>
+    <color name="colorTitle">#292929</color>
+    <color name="colorText">#615e5e</color>
+    <color name="green">#49be1a</color>
+
+    <color name="black">#000000</color>
+    <color name="bb_darkBackgroundColor">#212121</color>
+
+    <color name="success">#19AA39</color>
+</resources>
